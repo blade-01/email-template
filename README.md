@@ -1,2 +1,2 @@
-# email-templates
-# email-template
+# Email Template
+### Welcome to my email template
